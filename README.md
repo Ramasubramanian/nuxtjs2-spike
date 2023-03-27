@@ -67,3 +67,14 @@ More information about the usage of this directory in [the documentation](https:
 This directory contains your Vuex store files. Creating a file in this directory automatically activates Vuex.
 
 More information about the usage of this directory in [the documentation](https://nuxtjs.org/docs/2.x/directory-structure/store).
+
+## Running mock JSON server
+- cd to project root
+- Run below command
+```
+npm install -g json-server
+```
+- Run below command
+```
+json-server --port 5001 .\test\customer-db.json
+```

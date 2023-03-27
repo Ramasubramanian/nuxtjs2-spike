@@ -17,11 +17,11 @@ export async function searchCustomer(searchInput: string) {
     try {
         const {data, status} = await axios.get("http://localhost:5001/customers");
         console.log(status);
+        //TODO - currently filtered in client side ideally should come from server
         return data.customers.filter((c: Customer) => c.name.toLowerCase().indexOf(searchInput) >= 0);
     } catch (error) {
         if (axios.isAxiosError(error)) {
             console.log('error message: ', error.message);
-            // 👇️ error: AxiosError<any, any>
             return error.message;
           } else {
             console.log('unexpected error: ', error);

@@ -1,0 +1,114 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "name": "Balcan",
+      "description": "Balcan"
+    },
+    {
+      "id": 2,
+      "name": "Bimbo Bakehouse",
+      "description": "Bimbo Bakehouse"
+    },
+    {
+      "id": 3,
+      "name": "Hills Corrugate",
+      "description": "Hills Corrugate"
+    },
+    {
+      "id": 4,
+      "name": "HomeTownFoods",
+      "description": "HomeTownFoods"
+    },
+    {
+      "id": 5,
+      "name": "Impresora",
+      "description": "Impresora"
+    },
+    {
+      "id": 6,
+      "name": "Kraft US",
+      "description": "Kraft US"
+    },
+    {
+      "id": 7,
+      "name": "Maple Leaf",
+      "description": "Maple Leaf"
+    },
+    {
+      "id": 8,
+      "name": "McNairn",
+      "description": "McNairn"
+    },
+    {
+      "id": 9,
+      "name": "Nestle Canada",
+      "description": "Nestle Canada"
+    },
+    {
+      "id": 10,
+      "name": "Old Dutch",
+      "description": "Old Dutch"
+    },
+    {
+      "id": 11,
+      "name": "Peel Plastics Hills WAA",
+      "description": "Peel Plastics Hills WAA"
+    },
+    {
+      "id": 12,
+      "name": "PEI Bag",
+      "description": "PEI Bag"
+    },
+    {
+      "id": 13,
+      "name": "Plate Reorders",
+      "description": "Plate Reorders"
+    },
+    {
+      "id": 14,
+      "name": "Profecta",
+      "description": "Profecta"
+    },
+    {
+      "id": 15,
+      "name": "PTI",
+      "description": "PTI"
+    },
+    {
+      "id": 16,
+      "name": "Standlee",
+      "description": "Standlee"
+    },
+    {
+      "id": 17,
+      "name": "Topps",
+      "description": "Topps"
+    },
+    {
+      "id": 18,
+      "name": "Unilever Corrugate",
+      "description": "Unilever Corrugate"
+    },
+    {
+      "id": 19,
+      "name": "Unilever Primary",
+      "description": "Unilever Primary"
+    },
+    {
+      "id": 20,
+      "name": "Waterloo Brewing",
+      "description": "Waterloo Brewing"
+    },
+    {
+      "id": 21,
+      "name": "Wedlock",
+      "description": "Wedlock"
+    },
+    {
+      "id": 22,
+      "name": "WestRock Canada",
+      "description": "WestRock Canada"
+    }
+  ]
+}
